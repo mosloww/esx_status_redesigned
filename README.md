@@ -1,3 +1,5 @@
+![esx_sts](https://github.com/mosloww/esx_status_redesigned/assets/118264156/6d4740ce-e365-4103-b969-7ba23ab3f11d)
+
 <h1 align='center'>[ESX] Status</a></h1><p align='center'><b><a href='https://discord.esx-framework.org/'>Discord</a> - <a href='https://documentation.esx-framework.org/legacy/installation'>Documentation</a></b></h5>
 ESX Status
 [INSTALLATION]
@@ -35,5 +37,3 @@ TriggerEvent('esx_status:registerStatus', name, default, color,
 
 
 ```
-
-![esx_sts](https://github.com/mosloww/esx_status_redesigned/assets/118264156/6d4740ce-e365-4103-b969-7ba23ab3f11d)
