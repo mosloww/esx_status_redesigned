@@ -34,6 +34,6 @@ TriggerEvent('esx_status:registerStatus', name, default, color,
 )
 
 
-```![esx_sts](https://github.com/mosloww/esx_status_redesigned/assets/118264156/3a7b02ae-68c2-4359-8d8e-78f6133f2dd1)
+```
 
-
+![esx_sts](https://github.com/mosloww/esx_status_redesigned/assets/118264156/6d4740ce-e365-4103-b969-7ba23ab3f11d)
